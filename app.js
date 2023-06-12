@@ -9,6 +9,7 @@ const objEmpleado = {
 
 let editando = false;
 
+
 const formulario = document.querySelector('#formulario');
 const nombreInput = document.querySelector('#nombre');
 const puestoInput = document.querySelector('#puesto');
