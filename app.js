@@ -1,5 +1,6 @@
 let listaEmpleados = [];
 
+
 const objEmpleado = {
     id: '',
     nombre: '',
